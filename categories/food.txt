@@ -1,0 +1,9 @@
+food: ['https://www.foodnetwork.com/' 'https://www.food.com/'
+ 'https://www.buzzfeed.com/' 'https://www.sfchronicle.com/'
+ 'https://www.foodandwine.com/' 'https://www.sfgate.com/'
+ 'https://www.grubhub.com/' 'https://www.fda.gov/'
+ 'https://food.berkeley.edu/' 'https://www.accfb.org/'
+ 'https://www.britannica.com/' 'https://www.fao.org/'
+ 'https://www.slowfood.com/' 'https://foodtank.com/'
+ 'https://en.wiktionary.org/' 'https://food52.com/' 'https://www.rd.com/'
+ 'https://www.latimes.com/']

@@ -1,0 +1,7 @@
+beauty: ['https://www.ulta.com/' 'https://www.imdb.com/'
+ 'https://www.walgreens.com/' 'https://www.vogue.com/'
+ 'https://www.thesaurus.com/' 'https://www.instagram.com/'
+ 'https://www.beautypie.com/' 'https://www.sephora.com/'
+ 'https://www.netflix.com/' 'https://www.beautycounter.com/'
+ 'https://en.wiktionary.org/' 'https://www.refinery29.com/'
+ 'https://www.psychologytoday.com/']

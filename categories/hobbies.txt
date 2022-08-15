@@ -1,0 +1,7 @@
+hobbies: ['https://hobbyhelp.com/' 'https://www.nytimes.com/'
+ 'https://www.burlapandblue.com/' 'https://localadventurer.com/'
+ 'https://www.womanandhome.com/' 'https://theadultman.com/' None
+ 'https://www.happierhuman.com/' 'https://theeverygirl.com/'
+ 'https://www.lifehack.org/' 'https://www.oberlo.com/'
+ 'https://www.artofmanliness.com/' 'https://www.boredombusted.com/'
+ 'https://freshhobby.com/' 'https://www.shopify.com/']

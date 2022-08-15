@@ -1,0 +1,7 @@
+sports: ['https://sports.yahoo.com/' 'https://www.si.com/' 'https://www.espn.com/'
+ 'https://www.nbcsports.com/' 'https://www.foxsports.com/'
+ 'https://www.usatoday.com/' 'https://www.cbssports.com/'
+ 'https://www.nytimes.com/' 'https://apnews.com/'
+ 'https://www.washingtonpost.com/' 'https://www.latimes.com/'
+ 'https://www.britannica.com/' 'https://www.wsj.com/'
+ 'https://www.foxnews.com/']

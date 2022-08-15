@@ -1,0 +1,10 @@
+lifestylemen: ['https://www.fashionbeans.com/' 'https://www.lfmmag.com/'
+ 'https://theadultman.com/' 'https://www.gq.com/'
+ 'https://www.esquire.com/' 'https://www.apetogentleman.com/'
+ 'https://www.pinterest.com/' 'https://www.pinterest.com/'
+ 'https://www.lifestylestores.com/' 'https://www.lifestylestores.com/'
+ 'https://nextluxury.com/' 'https://nextluxury.com/'
+ 'https://menwhoblog.com/' 'https://modernmanslifestyle.com/'
+ 'https://apps.apple.com/' 'https://www.adidas.com/'
+ 'https://www.thecoolector.com/' 'https://www.nordstromrack.com/'
+ 'https://www.nike.com/']

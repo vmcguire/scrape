@@ -1,0 +1,7 @@
+entertainment: ['https://ew.com/' 'https://www.etonline.com/' 'https://www.eonline.com/'
+ 'https://www.usatoday.com/' 'https://www.cnn.com/'
+ 'https://www.entertainment.com/' 'https://people.com/'
+ 'https://www.foxnews.com/' 'https://apnews.com/' 'https://www.yahoo.com/'
+ 'https://www.facebook.com/' 'https://www.entertainmentone.com/'
+ 'https://www.thesaurus.com/' 'https://mashable.com/'
+ 'https://indianexpress.com/']

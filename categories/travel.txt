@@ -1,0 +1,8 @@
+travel: ['https://travel.state.gov/' 'https://www.travelandleisure.com/'
+ 'https://www.travelocity.com/' 'https://www.costcotravel.com/'
+ 'https://www.instagram.com/' 'https://www.kayak.com/'
+ 'https://www.nytimes.com/' 'https://www.forbes.com/'
+ 'https://www.expedia.com/' 'https://www.cdc.gov/'
+ 'https://www.travelchannel.com/' 'https://www.cnn.com/'
+ 'https://www.nationalgeographic.com/' 'https://www.usatoday.com/'
+ 'https://www.travel.com/' 'https://www.bbc.com/' 'https://wttc.org/']

@@ -1,0 +1,10 @@
+recipes: ['https://www.nytimes.com/' 'https://www.nytimes.com/'
+ 'https://www.allrecipes.com/' 'https://www.simplyrecipes.com/'
+ 'https://www.foodnetwork.com/' 'https://www.budgetbytes.com/'
+ 'https://www.bonappetit.com/' 'https://www.myrecipes.com/'
+ 'https://www.delish.com/' 'https://www.skinnytaste.com/'
+ 'https://www.theguardian.com/' 'https://www.tasteofhome.com/'
+ 'https://www.epicurious.com/' 'https://www.thepioneerwoman.com/'
+ 'https://www.myplate.gov/' 'https://pinchofyum.com/'
+ 'https://www.today.com/' 'https://www.beefitswhatsfordinner.com/'
+ 'https://norecipes.com/']

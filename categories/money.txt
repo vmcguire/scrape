@@ -1,0 +1,6 @@
+money: ['https://money.com/' 'https://www.britannica.com/'
+ 'https://www.investopedia.com/' 'https://www.investopedia.com/'
+ 'https://www.usatoday.com/' 'https://open.lib.umn.edu/'
+ 'https://www.cnn.com/' 'https://www.cnet.com/' 'https://www.apa.org/'
+ 'https://www.aarp.org/' 'https://positivemoney.org/'
+ 'https://www.cnbc.com/' 'https://time.com/' 'https://www.dallasfed.org/']

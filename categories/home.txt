@@ -1,0 +1,6 @@
+home: ['https://www.homedepot.com/' 'https://www.homedepot.com/'
+ 'https://www.homegoods.com/' 'https://www.athome.com/'
+ 'https://www.imdb.com/' 'https://www.zillow.com/'
+ 'https://www.zillow.com/' None 'https://www.nps.gov/'
+ 'https://www.redfin.com/' 'https://www.lowes.com/'
+ 'https://www.apple.com/' 'https://en.wiktionary.org/' 'https://home.com/']

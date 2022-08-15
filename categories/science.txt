@@ -1,0 +1,7 @@
+science: ['https://www.science.org/' 'https://www.sciencenews.org/'
+ 'https://www.sciencedaily.com/' 'https://www.aaas.org/'
+ 'https://www.livescience.com/' 'https://www.sciencedirect.com/'
+ 'https://www.nsf.gov/' 'https://www.scientificamerican.com/'
+ 'https://www.sciencebuddies.org/' 'https://www.nature.com/'
+ 'https://www.science.gov/' 'https://www.nytimes.com/' 'https://plos.org/'
+ 'https://science.nasa.gov/']

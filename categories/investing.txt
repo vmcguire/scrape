@@ -1,0 +1,8 @@
+investing: ['https://www.investing.com/' 'https://www.forbes.com/'
+ 'https://www.investopedia.com/' 'https://www.investor.gov/'
+ 'https://www.cnbc.com/' 'https://www.marketwatch.com/'
+ 'https://robinhood.com/' 'https://www.fidelity.com/'
+ 'https://www.kiplinger.com/' 'https://www.usnews.com/'
+ 'https://money.usnews.com/' 'https://www.schwab.com/'
+ 'https://www.cnn.com/' 'https://www.morningstar.com/'
+ 'https://www.tdameritrade.com/' 'https://www.finra.org/']

@@ -1,0 +1,7 @@
+outdoors: ['https://www.outdoors.com/' 'https://www.outsideonline.com/'
+ 'https://www.homedepot.com/' 'https://www.rei.com/'
+ 'https://www.johnsonoutdoors.com/' 'https://www.thesaurus.com/'
+ 'https://www.backcountry.com/' 'https://en.wiktionary.org/'
+ 'https://richmondcaoutdoors.com/' 'https://www.gov.ca.gov/'
+ 'https://newatlas.com/' 'https://www.samofund.org/'
+ 'https://www.lowes.com/']

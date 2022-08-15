@@ -1,0 +1,7 @@
+health: ['https://www.health.com/' 'https://www.nih.gov/' None
+ 'https://www.floridahealth.gov/' 'https://www.healthline.com/'
+ 'https://health.gov/' 'https://health.gov/' 'https://www.healthcare.gov/'
+ 'https://www.hhs.gov/' 'https://health.ny.gov/'
+ 'https://www.medicalnewstoday.com/' 'https://www.cnn.com/'
+ 'https://www.hrsa.gov/' 'https://www.forbes.com/'
+ 'https://www.healthaffairs.org/' None 'https://www.webmd.com/']

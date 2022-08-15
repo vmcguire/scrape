@@ -1,0 +1,5 @@
+vacation: ['https://www.imdb.com/' 'https://www.warnerbros.com/'
+ 'https://www.travelocity.com/' None 'https://www.vrbo.com/'
+ 'https://www.rottentomatoes.com/' 'https://www.vacasa.com/'
+ 'https://www.costcotravel.com/' 'https://www.expedia.com/'
+ 'https://www.kayak.com/' 'https://www.instagram.com/']

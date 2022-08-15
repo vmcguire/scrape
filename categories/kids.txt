@@ -1,0 +1,7 @@
+kids: ['https://www.imdb.com/' 'https://pbskids.org/'
+ 'https://kids.nationalgeographic.com/' 'https://www.rottentomatoes.com/'
+ 'https://kidshealth.org/' None 'https://www.potterybarnkids.com/'
+ 'https://www.instagram.com/' 'https://www.cnbc.com/'
+ 'https://www.kidsfootlocker.com/' 'https://messengerkids.com/'
+ 'https://www.kidsa-z.com/' 'https://www.foxnews.com/'
+ 'https://online.kidsdiscover.com/']

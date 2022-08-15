@@ -1,0 +1,8 @@
+garden: ['https://www.gardeners.com/' 'http://thegardener.com/'
+ 'https://www.gardendesign.com/' 'https://www.instagram.com/'
+ 'https://www.bhg.com/' 'https://botanicalgarden.berkeley.edu/'
+ 'https://www.ruthbancroftgarden.org/'
+ 'https://www.gardenfortheenvironment.org/'
+ 'https://www.smartgardener.com/' None 'https://www.garden.com/'
+ 'https://garden.org/' 'https://www.homedepot.com/'
+ 'https://www.countryliving.com/' 'https://www.amazon.com/']

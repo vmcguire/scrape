@@ -1,0 +1,8 @@
+business: ['https://www.investopedia.com/' 'https://www.businessnewsdaily.com/'
+ 'https://www.sba.gov/' 'https://www.sba.gov/' 'https://www.business.com/'
+ 'https://business.facebook.com/' 'https://www.bloomberg.com/'
+ 'https://www.bbb.org/' 'https://www.forbes.com/'
+ 'https://www.businessinsider.com/' 'https://www.wsj.com/'
+ 'https://www.usa.gov/' 'https://www.nytimes.com/'
+ 'https://en.wiktionary.org/' 'https://hbr.org/'
+ 'https://www.businessroundtable.org/']

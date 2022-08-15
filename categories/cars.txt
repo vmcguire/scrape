@@ -1,0 +1,7 @@
+cars: ['https://www.cars.com/' 'https://www.truecar.com/'
+ 'https://www.autotrader.com/' 'https://www.rigosauto.com/'
+ 'https://www.cargurus.com/' 'https://www.carfax.com/'
+ 'https://www.imdb.com/' 'https://www.carmax.com/' 'https://shift.com/'
+ 'https://www.disneyplus.com/' 'https://cars.usnews.com/'
+ 'https://www.edmunds.com/' 'https://www.rottentomatoes.com/'
+ 'https://www.cargurus.com/' 'https://www.volvocars.com/']

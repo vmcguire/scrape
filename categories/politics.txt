@@ -1,0 +1,9 @@
+politics: ['https://www.nytimes.com/' 'https://www.cnn.com/'
+ 'https://www.politico.com/' 'https://www.wsj.com/'
+ 'https://www.washingtonpost.com/' 'https://www.npr.org/'
+ 'https://apnews.com/' 'https://www.nbcnews.com/' 'https://www.pbs.org/'
+ 'https://www.bloomberg.com/' 'https://www.foxnews.com/'
+ 'https://www.cnbc.com/' 'https://www.latimes.com/'
+ 'https://www.cbsnews.com/' 'https://www.reddit.com/'
+ 'https://abcnews.go.com/' 'https://politics.princeton.edu/'
+ 'https://www.businessinsider.com/']

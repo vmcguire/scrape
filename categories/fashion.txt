@@ -1,0 +1,8 @@
+fashion: ['https://www.fashionnova.com/' 'https://www.vogue.com/'
+ 'https://fashionmagazine.com/' 'https://www.glamour.com/'
+ 'https://www.elle.com/' 'https://www.refinery29.com/'
+ 'https://www.instyle.com/' 'https://www.fashionrevolution.org/'
+ 'https://www.nytimes.com/' 'https://www.theguardian.com/'
+ 'https://wwd.com/' 'https://www.cnn.com/'
+ 'https://www.harpersbazaar.com/' 'https://www.instagram.com/'
+ 'https://www.businessoffashion.com/' None 'https://www.wsj.com/']

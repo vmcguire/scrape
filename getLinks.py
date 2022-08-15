@@ -7,6 +7,7 @@ import bs4
 import operator
 import urllib
 import pandas as pd
+import numpy as np
 
 endings = ['.com/', '.edu/', '.gov/', '.org/']
 
@@ -37,6 +38,7 @@ def pullLinks(soup, removals):
     linkElements = soup.select('div#main > div > div > div > a')
     linkToPrint = len(linkElements)
     sub_str = removals
+    list_urls = []
     for i in range(linkToPrint):
         link = linkElements[i].get('href')
         z = 0
@@ -47,5 +49,7 @@ def pullLinks(soup, removals):
                 z = z
         if z == 0:
             linkStripped = link.lstrip("/url?q=")
-            print(removeEndings(endings, linkStripped))
+            final_url = removeEndings(endings, linkStripped)
+            list_urls.append(final_url)
             # webbrowser.open('https://www.google.com'+link)
+    return list_urls

@@ -1,0 +1,7 @@
+regional: ['https://regionalmedicalsanjose.com/' 'https://www.waterboards.ca.gov/'
+ 'http://www.sacrt.com/' 'https://regionalfinance.com/'
+ 'https://en.wiktionary.org/' 'https://www.sanramonmedctr.com/'
+ 'https://www.regionalacceptance.com/' 'https://www.sanramonmedctr.com/'
+ 'https://www.regionalacceptance.com/' 'https://login.regions.com/'
+ 'https://www.regions.com/' 'https://regionalchange.ucdavis.edu/'
+ 'https://www.census.gov/' None 'https://www.amtrak.com/']

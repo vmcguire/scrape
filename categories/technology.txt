@@ -1,0 +1,7 @@
+technology: ['https://www.britannica.com/' 'https://www.mit.edu/'
+ 'https://www.gatech.edu/' 'https://www.bbc.com/'
+ 'https://www.nytimes.com/' 'https://www.newworldencyclopedia.org/'
+ 'https://www.stevens.edu/' 'https://www.technologyreview.com/'
+ 'https://www.caltech.edu/' 'https://www.rit.edu/' 'https://www.fit.edu/'
+ 'https://www.thesaurus.com/' 'https://www.npr.org/'
+ 'https://www.iit.edu/' 'https://www.newscientist.com/']

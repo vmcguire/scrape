@@ -1,0 +1,9 @@
+lifestylewomen: ['https://www.womenslifestyle.com/' 'https://www.lifestylestores.com/'
+ 'https://www.lifestylestores.com/' 'https://www.womansday.com/'
+ 'https://www.thegoodtrade.com/' 'https://www.pinterest.com/'
+ 'https://fustany.com/' 'https://people.com/' 'https://www.nike.com/'
+ 'https://www.reebok.com/' 'https://www.famousfootwear.com/'
+ 'https://www.newbalance.com/' 'https://www.newbalance.com/'
+ 'https://poshmark.com/' 'https://www.guess.com/'
+ 'https://www.icebreaker.com/' 'https://blog.feedspot.com/'
+ 'https://www.clevergirlfinance.com/' None]

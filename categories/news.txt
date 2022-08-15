@@ -1,0 +1,8 @@
+news: ['https://www.foxnews.com/' 'https://www.nbcnews.com/'
+ 'http://www.cnn.com/' 'https://abcnews.go.com/' 'https://news.yahoo.com/'
+ 'https://apnews.com/' 'https://www.npr.org/' 'https://www.cbsnews.com/'
+ 'https://www.usnews.com/' 'https://www.washingtonpost.com/'
+ 'https://www.bbc.com/' 'https://www.bbc.com/' 'https://www.nytimes.com/'
+ 'https://www.aljazeera.com/' 'https://www.theguardian.com/'
+ 'https://www.usatoday.com/' 'https://www.msnbc.com/'
+ 'https://www.science.org/']

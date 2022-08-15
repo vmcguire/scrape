@@ -1,0 +1,8 @@
+fitness: ['https://www.health.com/' 'https://www.planetfitness.com/'
+ 'https://www.fitnesssf.com/' 'https://www.self.com/'
+ 'https://www.healthline.com/' 'https://nationalfitnesscampaign.com/'
+ 'https://www.webmd.com/' 'https://www.instagram.com/'
+ 'https://www.lifefitness.com/' 'https://www.24hourfitness.com/'
+ 'https://www.shape.com/' 'https://www.mayoclinic.org/'
+ 'https://www.beniciafitness.com/' 'https://www.orangetheory.com/'
+ 'https://www.anytimefitness.com/' 'https://www.menshealth.com/']
